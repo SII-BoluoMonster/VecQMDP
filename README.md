@@ -6,8 +6,8 @@
 This repository contains the official implementation of **Vec-QMDP**, a high-performance, CPU-native parallel POMDP planner designed for robust autonomous driving in uncertain environments.
 
 ## News 📢
-- **[2026-02]** Our paper is available on [ArXiv](https://arxiv.org/pdf/2602.08334)!
-- **[2026-02]** Project website is live at [https://xxx](https://xxx).
+- **[2026-02]** Our paper is available on [here](https://arxiv.org/pdf/2602.08334)!
+- **[2026-02]** Project website is live at [here](https://sii-boluomonster.github.io/VecQMDP-website/).
 - **[Coming Soon]** We are currently refactoring the codebase for open-source release. Stay tuned!
 
 ## Abstract
